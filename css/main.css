@@ -182,6 +182,7 @@ nav .container {
     justify-content: center;
     gap: 70px;
     padding: 60px 0px;
+    height: 600px;
 }
 
 .section2_left {
@@ -338,6 +339,7 @@ nav .container {
     gap: 70px;
     padding: 120px 0px;
     align-items: center;
+    height: 700px;
 }
 
 .section5_card1 {
